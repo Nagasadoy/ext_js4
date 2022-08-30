@@ -1,0 +1,145 @@
+
+table, td{
+    font-size: 20pt;
+	color: black;
+    font-weight: normal;
+}
+
+.notFullyVolume{background-image: url(../images/bullet_error.png)}
+.scan{background-image: url(../images/paste_plain.png)}
+.report_edit {background-image:url(../images/report_edit.png) !important;}
+.exit {background-image:url(../images/exit.gif) !important;}
+.find {background-image: url(../images/find.png)!important;}
+.delete {background-image: url(../images/delete.gif)!important;}
+.printer{background-image:url(./mc18/MC180_part/images/printer.png) !important;}
+.savedCS {background-image: url(../images/savedCS.png) !important;}
+.savedBUH {background-image:url(../images/savedBuh.gif) !important;}
+.savedOVK {background-image:url(../images/savedOVK.png) !important;}
+.savedSNAB {background-image: url(../images/saved.png) !important;}
+.add {background-image: url(../images/add.png) !important;}
+.del {background-image: url(../images/delete.gif) !important;}
+.print {background-image: url(../images/printer.png) !important;}
+.create {background-image: url(../images/page_add.png) !important;}
+.del_part {background-image: url(../images/delete_2.gif) !important;}
+.dob_part {background-image: url(../images/drop-yes.gif) !important;}
+.bmenu {background: url(../images/menu-show.gif) 0 no-repeat !important;}
+.help {background-image:url(../images/help.gif) !important;}
+.feed-item {background-image:url(../images/feed-item.gif) !important;}
+.back {background: url(../images/back.gif) 0 no-repeat !important;}
+.back1 {background: url(../images/back1.gif) 0 no-repeat !important;}
+.checkON {background-image:url(../images/checkON.gif) !important;}
+.checkOFF {background-image:url(../images/checkOFF.gif) !important;}
+.load {background: url(../images/lock.gif) 0 no-repeat !important;}
+.save {background: url(../images/save.gif) 0 no-repeat !important;}
+.refresh {background: url(../images/refresh.gif) 0 no-repeat !important; }
+.view {background: url(../images/ok.png) 0 no-repeat !important;}
+.unload {background: url(../images/unlock.gif) 0 no-repeat !important;}
+.report_add {background-image: url(../images/report_add.png) 	!important;}
+.report_edit {background-image: url(../images/report_edit.png) 	!important;}
+.menu_show {background-image: url(../images/menu_show.gif) 	!important;}
+.folder_open {background-image: url(../images/folder_open.gif) 	!important;}
+.delete {background-image: url(../images/del.gif) 	!important;}
+.remove {background-image: url(../images/remove.png) 	!important;}
+.red_color {background-image: url(../images/redColor.png) 	!important;}
+.document {background-image: url(../images/document.gif) 	!important;}
+.passport {background-image: url(../images/leaf.gif) !important;}
+.pdf {background-image: url(../images/pdf.png) !important;}
+
+.grey_text {
+    color: grey !important;
+}
+.filter-text {
+    color: #3892d3;
+    font-style: italic;
+}
+
+
+.x-btn-toolbar {
+	background: #f5f5f5;
+}
+
+
+.x-toolbar-default {
+	background: #f5f5f5;
+	border-bottom: 5px solid #3892d3;
+}
+
+.x-panel-body-default {
+	background: #f5f5f5;
+}
+
+.x-fieldset {
+	border: 1px solid #b5b8c8;
+}
+
+.x-fieldset-header-text {
+	color: #3892d3;
+}
+
+.x-panel-header-default{
+	background-color: #f5f5f5;
+}
+
+.x-panel-header-text-container-default{
+	color: #666666;
+}
+
+.x-body {
+	background-color: white;
+	background-image: url(../images/rosatom-pattern-2.png) !important;
+}
+
+.x-mask {
+	background: #e5e5e5;
+}
+
+.x-mask-msg {
+	background: white;
+}
+
+.shifr td {
+	color: #f5f5f5;
+}
+
+.msg .x-box-mc {
+    font-size:14px;
+}
+
+#msg-div {
+    position:absolute;
+    left:50%;
+    top:10px;
+    width:400px;
+    margin-left:-200px;
+    z-index:20000;
+}
+#msg-div .msg {
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    background: #F6F6F6;
+	/* border: 2px solid #ccc; */
+	border: 5px solid #3892d3;
+    margin-top: 2px;
+    padding: 10px 15px;
+    color: #555;
+}
+#msg-div .msg h3 {
+    margin: 0 0 8px;
+    font-weight: bold;
+    font-size: 15px;
+}
+#msg-div .msg p {
+    margin: 0;
+}
+
+.btn-clear {
+    border: none; 
+    cursor: pointer; 
+    color: #999999;
+    font-size: 15px;
+    /* pointerEvents:none; opacity: 0;" onclick = "UserAkt_Refresh()"><img alt = "&#10006" style = "color: rgb(0, 210, 0); font-size: 15px; */
+}
+
+.window-load-scan > x-panel-body-default{
+    background-color: #dfeaf2 !important;
+}
